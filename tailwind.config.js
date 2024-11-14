@@ -23,7 +23,7 @@ export default {
           2:"#FFFFFC",
           3:"#FFFAFA",
           4:"#F2F3F4",
-          5:"#9199A1",
+          5:"#1C3144",
         },
       },
       fontFamily: {
